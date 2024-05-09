@@ -9,3 +9,7 @@ body{
     a{
         color: white;
     }
+
+    header{
+        background-color: rgb(151, 6, 6);
+    }
